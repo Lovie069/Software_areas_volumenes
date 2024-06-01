@@ -2,4 +2,10 @@ Paso 1
 
 Paso 2
 
+<<<<<<< HEAD
 Paso 3
+=======
+Paso 3
+
+Paso 4
+>>>>>>> aa9b752541111a9e38cbb7ad60f037bd6efd470c
